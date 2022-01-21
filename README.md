@@ -44,8 +44,8 @@ i'm stupid
 
 ### Qualifications
 
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)\n
 - Completed the Introduction to Node.js course.
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)\n
 - Enrolled in and studied Visual Effects for Games in Unity - Beginner To Intermediate.
 - Enrolled in and learned the basics from Complete C# Unity Game Developer 3D.
