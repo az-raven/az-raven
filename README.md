@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-i'm stupid
+I'm Rose, I'm a core & API developer for Subsurface Studios, as well as head artist.
+I manage the serverside infrastructure for Compensation VR and develop the API largely myself.
+I also created the vast majority of models in Compensation VR.
 
 - 🔭 I’m currently working on Compensation VR
-- 🌱 I’m currently learning [object Object]
+- 🌱 I’m currently learning more 3D modelling skills.
 - 👯 I’m looking to collaborate on Compensation VR.
-- 🤔 I’m looking for help with MeSh MaTh?????????????????????????
-- 💬 Ask me about Compensation VR.
+- 🤔 I’m looking for help with modelling hair.
+- 💬 Ask me about Compensation VR. (be prepared to be talked at for hours)
 - 📫 How to reach me: Rose932#1454 on Discord.
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: i have no idea what i'm doing
+- ⚡ Fun fact: i have no idea what i'm doing almost all the time
 
+#### Education
+- I've graduated from the Introduction to Node.js course on EDX.
+- I've previously taken courses in basic C# as well as visual effects.
+- I also have over 2 years of experience in Unity3D, including over a year of experience in C#.
 
 ### Social
 ![Discord](https://img.shields.io/badge/w2cgRjWkdb-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
