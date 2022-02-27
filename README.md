@@ -13,6 +13,9 @@ I also created the vast majority of models in Compensation VR.
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: i have no idea what i'm doing almost all the time
 
+### Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubby932)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Education
 - I've graduated from the Introduction to Node.js course on EDX.
 - I've previously taken courses in basic C# as well as visual effects.
