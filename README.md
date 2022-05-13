@@ -14,8 +14,8 @@ I also created the vast majority of models in Compensation VR.
 - ⚡ Fun fact: i have no idea what i'm doing almost all the time
 
 ### Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubby932)](https://github.com/anuraghazra/github-readme-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubby932&theme=light&layout=compact&show_icons=true&hide_border=true&langs_count=6&card_width=450)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubby932&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubby932&theme=dark&show_icons=true&langs_count=10&card_width=450)
 
 
 #### Education
