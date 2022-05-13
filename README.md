@@ -24,7 +24,7 @@ I also created the vast majority of models in Compensation VR.
 - I also have over 2 years of experience in Unity3D, including over a year of experience in C#.
 
 ### Social
-![Discord](https://img.shields.io/badge/w2cgRjWkdb-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Rose932%231454-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Instagram](https://img.shields.io/badge/cvr_rose-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Twitter](https://img.shields.io/badge/cvr_rose-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![YouTube](https://img.shields.io/badge/Compensation%20VR-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
