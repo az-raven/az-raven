@@ -16,9 +16,10 @@ I'm extremely passionate about Creation Tools in games, that is my current main 
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: i have no idea what i'm doing almost all the time
 
-### Statistics
+### Activity
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubby932&theme=dark&include_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubby932&theme=dark&show_icons=true&langs_count=10&card_width=450)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubby932&theme=dark&show_icons=true&langs_count=10&card_width=450)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bubby932)
 
 
 #### Education
