@@ -27,7 +27,7 @@ I'm extremely passionate about Creation Tools in games, that is my current main 
 - I've previously taken courses in basic C# as well as visual effects.
 - I also have over 3 years of experience in Unity3D, including over two years of experience in C#.
 - I wrote the [Compensation VR API](https://github.com/bubby932/VigorXRAPI) almost entirely myself.
-- I'm working on a simulated CPU arch called [vCPU](https://github.com/bubby932/vCPU) and an assembler for it called [vasm-compiler](https://github.com/bubby932/vasm-compiler). A C-like high-level language is soon to come as well.
+- I'm working on a simulated CPU arch called [vCPU](https://github.com/bubby932/vCPU) and an assembler for it called [vasm-compiler](https://github.com/bubby932/vasm-compiler). I also made a compiled language called [vasC](https://github.com/bubby932/vasc) emulating C which compiles directly to vasm.
 - I have multiple years of modelling experience in Blender, primarily on [Compensation VR](https://compensationvr.tk).
 
 ### Social
