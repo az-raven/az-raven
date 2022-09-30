@@ -1,6 +1,6 @@
 ### Hi there 👋  
   
-I'm Rose, I'm a core & API developer for Subsurface Studios, as well as head artist.  
+I'm Rose, I'm a full stack developer for Subsurface Studios, as well as head artist.  
 I also created the vast majority of models in Compensation VR.  
 
 I'm extremely passionate about Creation Tools in games, that is my current main project. Want photos? Check it out [here](https://compensationvr.tk/social)!  
