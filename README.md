@@ -1,9 +1,9 @@
 ### Hi there 👋  
   
 I'm Rose, I'm a full stack developer for Subsurface Studios, as well as head artist.  
-I also created the vast majority of models in Compensation VR.  
+I also created the vast majority of models in Compensation VR. Want photos? Check pit out [here](https://compensationvr.tk/social)! 
 
-I'm extremely passionate about Creation Tools in games, that is my current main project. Want photos? Check it out [here](https://compensationvr.tk/social)!  
+I'm extremely passionate about Creation Tools in games, that is my current main project. 
 
 ![](https://api.compensationvr.tk/img/88)
 
@@ -23,11 +23,11 @@ I'm extremely passionate about Creation Tools in games, that is my current main 
 
 #### Education
 - I've graduated from the Introduction to Node.js course on EDX.
-- I've previously taken courses in basic C# as well as visual effects.
-- I also have over 3 years of experience in Unity3D, including over two years of experience in C#.
+- I also have multiple years of experience in Unity, C#, and Node.js, as well as a working knowledge of C and Rust.
+- I have an entry-level knowledge of Dart & x86 Assembly (specifically `nasm`).
 - I wrote the [Compensation VR API](https://github.com/bubby932/VigorXRAPI) almost entirely myself.
-- I'm working on a simulated CPU arch called [vCPU](https://github.com/bubby932/vCPU) and an assembler for it called [vasm-compiler](https://github.com/bubby932/vasm-compiler). I also made a compiled language called [vasC](https://github.com/bubby932/vasc) emulating C which compiles directly to vasm.
 - I have multiple years of modelling experience in Blender, primarily on [Compensation VR](https://compensationvr.tk).
+- I'm writing a toy operating system in x86 and [Davis](https://github.com/bubby932/davis-lang), my C-like compiled language I'm writing specifically for it in C#.
 
 ### Social
 [
@@ -51,6 +51,7 @@ I'm extremely passionate about Creation Tools in games, that is my current main 
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Custom](https://img.shields.io/badge/Custom%20(Davis)-00599C?style=for-the-badge&logo=c-sharp&logoColor=white)
 - ShaderLab
 
 ### Qualifications
