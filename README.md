@@ -51,6 +51,7 @@ I'm extremely passionate about Creation Tools in games, that is my current main 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Custom](https://img.shields.io/badge/Custom%20(Davis)-00599C?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ShaderLab](https://img.shields.io/badge/ShaderLab-5E5C5C?style=for-the-badge&logo=unity&logoColor=white)
+![asm](https://img.shields.io/badge/x86-D00000?style=for-the-badge)
 
 ### Qualifications
 
