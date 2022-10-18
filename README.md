@@ -50,7 +50,7 @@ I'm extremely passionate about Creation Tools in games, that is my current main 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Custom](https://img.shields.io/badge/Custom%20(Davis)-00599C?style=for-the-badge&logo=c-sharp&logoColor=white)
-- ShaderLab
+![ShaderLab](https://img.shields.io/badge/ShaderLab-5E5C5C?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Qualifications
 
