@@ -7,7 +7,7 @@ I'm extremely passionate about Creation Tools in games, that is my current main 
 
 - 🔭 I’m currently working on Compensation VR
 - 🌱 I’m currently learning more 3D modelling skills.
-- 👯 I’m looking to collaborate on Compensation VR.
+- 👯 I’m looking to collaborate on Compensation.
 - 🤔 I’m looking for help with modelling hair.
 - 💬 Ask me about Compensation VR. (be prepared to be talked at for hours)
 - 📫 How to reach me: Rose932#1454 on Discord.
