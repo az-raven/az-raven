@@ -3,7 +3,7 @@
 I'm Rose, I'm a full stack developer for Subsurface Studios, as well as head artist.  
 I also created the vast majority of models in Compensation VR. Want photos? Check it out [here](https://compensationvr.tk/social)! 
 
-I'm extremely passionate about Creation Tools in games, that is my current main project. 
+I'm extremely passionate about Creation Tools in games, and Compensation VR is my primary project. 
 
 - 🔭 I’m currently working on Compensation VR
 - 🌱 I’m currently learning more 3D modelling skills.
