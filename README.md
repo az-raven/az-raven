@@ -5,7 +5,7 @@ I also created the vast majority of models in Compensation VR. Want photos? Chec
 
 I'm extremely passionate about Creation Tools in games, and Compensation VR is my primary project. 
 
-- 🔭 I’m currently working on Compensation VR
+- 🔭 I’m currently working on Compensation VR.
 - 🌱 I’m currently learning more 3D modelling skills.
 - 👯 I’m looking to collaborate on Compensation.
 - 🤔 I’m looking for help with modelling hair.
