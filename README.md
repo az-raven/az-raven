@@ -12,7 +12,7 @@ I'm extremely passionate about Creation Tools in games, and Compensation VR is m
 - 💬 Ask me about Compensation VR. (be prepared to be talked at for hours)
 - 📫 How to reach me: Rose932#1454 on Discord.
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: i have no idea what i'm doing almost all the time
+- ⚡ Fun fact: i have no idea what i'm doing almost all the time (especially when rust is involved)
 
 ### Activity
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubby932&theme=dark&include_private=true)](https://github.com/anuraghazra/github-readme-stats)  
