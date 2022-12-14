@@ -13,7 +13,7 @@ I'm extremely passionate about Creation Tools in games, and Compensation VR is m
 - 📫 How to reach me: Rose932#1454 on Discord.
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: i have no idea what i'm doing almost all the time (especially when rust is involved)
-- 🎉 High school graduate and working on my AAS at 15!
+- 🎉 High school graduate and working on my Associate's at 15!
 
 ### Activity
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubby932&theme=dark&include_private=true)](https://github.com/anuraghazra/github-readme-stats)  
