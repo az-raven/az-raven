@@ -12,7 +12,7 @@ I'm extremely passionate about Creation Tools in games, and Compensation VR is m
 - 💬 Ask me about Compensation VR. (be prepared to be talked at for hours)
 - 📫 How to reach me: Rose932#1454 on Discord.
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: i have no idea what i'm doing almost all the time (especially when rust is involved)
+- ⚡ Fun fact: If I'm passionate about something, I'll keep going until it's somebody else's code that's limiting me.
 - 🎉 High school graduate and working on my Associate's at 15!
 
 ### Activity
