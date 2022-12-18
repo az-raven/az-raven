@@ -21,11 +21,10 @@ I'm extremely passionate about Creation Tools in games, and Compensation VR is m
 
 #### Education
 - I've graduated from the Introduction to Node.js course on EDX.
-- I also have multiple years of experience in Unity, C#, and Node.js, as well as a working knowledge of C and Rust.
-- I have an entry-level knowledge of Dart & x86 Assembly (specifically `nasm`).
+- I also have multiple years of experience in Unity, C#, and Node.js, as well as a working knowledge of Rust, C, and x86 Assembly (`nasm` syntax primarily).
+- I have an entry-level knowledge of Dart.
 - I wrote the [Compensation VR API](https://github.com/bubby932/VigorXRAPI) almost entirely myself.
 - I have multiple years of modelling experience in Blender, primarily on [Compensation VR](https://compensationvr.tk).
-- I'm writing a toy operating system in x86 and [Davis](https://github.com/bubby932/davis-lang), my C-like compiled language I'm writing specifically for it in C#.
 
 ### Social
 [
