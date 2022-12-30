@@ -9,6 +9,7 @@ I also created the vast majority of models in Compensation. Want photos? Check i
 - ⚡ Fun fact: If I'm passionate about something, I'll keep going until it's somebody else's code that's limiting me.
 - 🎉 High school graduate and working on my Associate's at 15!
 - 😄 Pronouns: She / Her
+- Working on a secret new project for @SubsurfaceStudios, releasing sometime around June 2023.
 
 ## Resume
 * Multiple years experience in C#, Node.js, and Unity3D, including VR development and significant experience with MongoDB.
@@ -16,7 +17,8 @@ I also created the vast majority of models in Compensation. Want photos? Check i
 * Fairly robust 3D art experience working on Compensation Social.
 * Led the optimization efforts on Compensation Social, in preparation for releasing on Oculus App Lab.
 * Detailed knowledge of computer architecture, from logic gates and upward.
-* Not afraid of crunch time.
+* Willing to crunch when necessary and make up for it in my own time.
+* Currently working on my Associate's in Computer Programming with a concentration in VR Development in Unity.
 
 ![Metrics](/github-metrics.svg)
 
