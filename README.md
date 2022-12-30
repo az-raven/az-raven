@@ -1,7 +1,7 @@
 ## Hi there 👋  
   
 I'm Rose, I'm a full stack (primarily UGC) developer for Subsurface Studios, as well as head artist and the only systems administrator.  
-I also created the vast majority of models in Compensation. Want photos? Check it out [here](https://compensationvr.tk/social)! 
+I also created the vast majority of models in Compensation Social. Want photos? Check it out [here](https://compensationvr.tk/social)! 
 
 - 🌱 I’m currently learning more 3D modelling skills.
 - 💬 Ask me about Compensation Social!
