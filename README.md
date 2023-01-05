@@ -9,7 +9,7 @@ I also created the vast majority of models in Compensation Social. Want photos? 
 - ⚡ Fun fact: If I'm passionate about something, I'll keep going until it's somebody else's code that's limiting me.
 - 🎉 High school graduate and working on my Associate's at 15!
 - 😄 Pronouns: She / Her
-- Working on a secret new project for @SubsurfaceStudios, releasing sometime around June 2023.
+- Working on a secret new project for [@SubsurfaceStudios](https://github.com/SubsurfaceStudios), releasing sometime around June 2023.
 
 ## Resume
 * Multiple years experience in C#, Node.js, and Unity3D, including VR development and significant experience with MongoDB.
