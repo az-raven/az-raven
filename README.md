@@ -33,5 +33,5 @@ I also created the vast majority of models in Compensation Social. Want photos? 
   ![](https://img.shields.io/badge/cvr_rose-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ](https://twitter.com/cvr_rose)
 [
-  ![](https://img.shields.io/badge/Compensation%20VR-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+  ![](https://img.shields.io/badge/Subsurface%20Studios-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ](https://www.youtube.com/channel/UCWS_xkyKi61KeqBnKn1o1Rw/featured)
