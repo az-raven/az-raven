@@ -13,11 +13,11 @@ I also created the vast majority of models in Compensation Social. Want photos? 
 
 ## Resume
 * Multiple years experience in C#, Node.js, and Unity3D, including VR development and significant experience with MongoDB.
-* Strong full-stack background.
-* Fairly robust 3D art experience working on Compensation Social.
+* Applicable knowledge and experience in C, C#, node.js, Rust, and basic knowledge of Dart and Go.
+* Strong full-stack, game development, and low-level background.
+* Significant 3D art experience working on Compensation Social.
 * Led the optimization efforts on Compensation Social, in preparation for releasing on Oculus App Lab.
 * Detailed knowledge of computer architecture, from logic gates and upward.
-* Willing to crunch when necessary and make up for it in my own time.
 * Currently working on my Associate's in Computer Programming with a concentration in VR Development in Unity.
 
 ![Metrics](/github-metrics.svg)
