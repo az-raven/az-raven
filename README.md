@@ -1,15 +1,14 @@
 ## Hi there 👋  
   
-I'm Rose, I'm a full stack (primarily UGC) developer for Subsurface Studios, as well as head artist and the only systems administrator.  
-I also created the vast majority of models in Compensation Social. Want photos? Check it out [here](https://compensationvr.tk/social)! 
+I'm Rose, a full stack developer experienced with Unity and backend development. I used to work on Compensation Social, now I'm working on my Associate's in Computer Programming at 15, along with a few secret projects going public later this year.  
 
-- 🌱 I’m currently learning more 3D modelling skills.
-- 💬 Ask me about Compensation Social!
+- 🌱 Working on my AAS in Computer Programming!
+- 💬 Ask me about Subsurface Studios!
 - 📫 How to reach me: Rose932#1454 on Discord.
 - ⚡ Fun fact: If I'm passionate about something, I'll keep going until it's somebody else's code that's limiting me.
 - 🎉 High school graduate and working on my Associate's at 15!
-- 😄 Pronouns: She / Her
-- Working on a secret new project for [@SubsurfaceStudios](https://github.com/SubsurfaceStudios), releasing sometime around June 2023.
+- 😄 Pronouns: Any - She/Her Preferred.
+- ⚡ Working on a secret new project for [@SubsurfaceStudios](https://github.com/SubsurfaceStudios).
 
 ## Resume
 * Multiple years experience in C#, Node.js, and Unity3D, including VR development and significant experience with MongoDB.
@@ -24,14 +23,20 @@ I also created the vast majority of models in Compensation Social. Want photos? 
 
 ## Social
 [
-  ![Discord](https://img.shields.io/badge/Rose932%231454-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-](https://discord.gg/AMejDS2u6e)
-[
   ![Instagram](https://img.shields.io/badge/cvr_rose-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ](https://instagram.com/cvr_rose)
 [
-  ![](https://img.shields.io/badge/cvr_rose-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-](https://twitter.com/cvr_rose)
+  ![Twitter](https://img.shields.io/badge/cvr_rose-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+](https://twitter.com/cvr_rose)  
+  
 [
-  ![](https://img.shields.io/badge/Subsurface%20Studios-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-](https://www.youtube.com/channel/UCWS_xkyKi61KeqBnKn1o1Rw/featured)
+  ![Discord](https://img.shields.io/badge/Subsurface%20Studios-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+](https://discord.gg/eAZF6m9C73)
+[
+  ![YouTube](https://img.shields.io/badge/Subsurface%20Studios-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+](https://www.youtube.com/channel/UCWS_xkyKi61KeqBnKn1o1Rw/featured)  
+  
+
+[
+  ![Discord](https://img.shields.io/badge/Compensation%20Social-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+](https://discord.gg/AMejDS2u6e)
