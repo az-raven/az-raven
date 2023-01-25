@@ -6,17 +6,17 @@ I'm Rose, a full stack developer experienced with Unity and backend development.
 - 💬 Ask me about Subsurface Studios!
 - 📫 How to reach me: Rose932#1454 on Discord.
 - ⚡ Fun fact: If I'm passionate about something, I'll keep going until it's somebody else's code that's limiting me.
-- 🎉 High school graduate and working on my Associate's at 15!
+- 🎉 Working on a secret new project for [@SubsurfaceStudios](https://github.com/SubsurfaceStudios).
 - 😄 Pronouns: Any - She/Her Preferred.
-- ⚡ Working on a secret new project for [@SubsurfaceStudios](https://github.com/SubsurfaceStudios).
 
 ## Resume
 * Multiple years experience in C#, Node.js, and Unity3D, including VR development and significant experience with MongoDB.
 * Applicable knowledge and experience in C, C#, node.js, Rust, x86 Assembly (Intel and AT&T syntax), and basic knowledge of Dart and Go.
+* 2 years of experience with MongoDB and Google Firebase.
 * Strong full-stack, game development, and low-level background.
 * Significant 3D art experience working on Compensation Social.
 * Led the optimization efforts on Compensation Social, in preparation for releasing on Oculus App Lab.
-* Detailed knowledge of computer architecture, from logic gates and upward.
+* Detailed knowledge of computer architecture, from individual clock cycles all the way to the operating system and beyond.
 * Currently working on my Associate's in Computer Programming with a concentration in VR Development in Unity.
 
 ![Metrics](/github-metrics.svg)
