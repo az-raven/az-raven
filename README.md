@@ -1,13 +1,13 @@
 ## Hi there 👋  
   
-I'm Rose, a full stack developer experienced with Unity and backend development. I used to work on Compensation Social, now I'm working on my Associate's in Computer Programming at 15, along with a few secret projects going public later this year.  
+I'm Raven, a full stack developer experienced with Unity and backend development. I used to work on Compensation Social, now I'm working on my Associate's in Computer Programming at 15, along with a few secret projects going public later this year.  
 
 - 🌱 Working on my AAS in Computer Programming!
 - 💬 Ask me about Subsurface Studios!
 - 📫 How to reach me: Rose932#1454 on Discord.
 - ⚡ Fun fact: If I'm passionate about something, I'll keep going until it's somebody else's code that's limiting me.
 - 🎉 Working on a secret new project for [@SubsurfaceStudios](https://github.com/SubsurfaceStudios).
-- 😄 Pronouns: Any - She/Her Preferred.
+- 😄 Pronouns: Any.
 
 ## Resume
 * Multiple years experience in C#, Node.js, and Unity3D, including VR development and significant experience with MongoDB.
