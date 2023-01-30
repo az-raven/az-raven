@@ -23,13 +23,6 @@ I'm Raven, a full stack developer experienced with Unity and backend development
 
 ## Social
 [
-  ![Instagram](https://img.shields.io/badge/cvr_rose-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-](https://instagram.com/cvr_rose)
-[
-  ![Twitter](https://img.shields.io/badge/cvr_rose-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-](https://twitter.com/cvr_rose)  
-  
-[
   ![Discord](https://img.shields.io/badge/Subsurface%20Studios-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ](https://discord.gg/eAZF6m9C73)
 [
