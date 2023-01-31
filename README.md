@@ -4,7 +4,7 @@ I'm Raven, a full stack developer experienced with Unity and backend development
 
 - 🌱 Working on my AAS in Computer Programming!
 - 💬 Ask me about Subsurface Studios!
-- 📫 How to reach me: Rose932#1454 on Discord.
+- 📫 How to reach me: Email me at [raven@az-raven.com](mailto:raven@az-raven.com)!
 - ⚡ Fun fact: If I'm passionate about something, I'll keep going until it's somebody else's code that's limiting me.
 - 🎉 Working on a secret new project for [@SubsurfaceStudios](https://github.com/SubsurfaceStudios).
 - 😄 Pronouns: Any.
