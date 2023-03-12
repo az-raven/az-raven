@@ -19,7 +19,8 @@ I'm Raven, a full stack developer experienced with Unity and backend development
 * Detailed knowledge of computer architecture, from individual clock cycles all the way to the operating system and beyond.
 * Currently working on my Associate's in Computer Programming with a concentration in VR Development in Unity.
 
-![Metrics](/github-metrics.svg)
+[![HitCount](https://hits.dwyl.com/bubby932/bubby932/bubby932.svg?style=flat&show=unique)](http://hits.dwyl.com/bubby932/bubby932/bubby932)  
+![Metrics](/github-metrics.svg)  
 
 ## Social
 [
