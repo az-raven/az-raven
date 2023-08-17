@@ -20,7 +20,7 @@ I'm Raven, a full stack developer experienced with Unity and backend development
 * Currently working on my Associate's in Computer Programming with a concentration in VR Development in Unity.
 
 [![HitCount](https://hits.dwyl.com/bubby932/bubby932/bubby932.svg?style=flat&show=unique)](http://hits.dwyl.com/bubby932/bubby932/bubby932)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=bubby932&theme=transparent&hide_border=true&border_radius=3.5&date_format=j%20M%5B%20Y%5D&fire=FFFFFF&ring=EBEBEB&stroke=EBEBEB&background=EB545400&sideNums=EBEBEB&sideLabels=BFBFBF&currStreakLabel=EBEBEB&currStreakNum=FFFFFF&dates=EBEBEB)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=az-raven&theme=transparent&hide_border=true&border_radius=3.5&date_format=j%20M%5B%20Y%5D&fire=FFFFFF&ring=EBEBEB&stroke=EBEBEB&background=EB545400&sideNums=EBEBEB&sideLabels=BFBFBF&currStreakLabel=EBEBEB&currStreakNum=FFFFFF&dates=EBEBEB)](https://git.io/streak-stats)  
 ![Metrics](/github-metrics.svg)  
 
 ## Social
