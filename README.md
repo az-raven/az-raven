@@ -1,6 +1,6 @@
 ## Hi there 👋  
   
-I'm Raven, a full stack developer experienced with Unity and backend development. I used to work on Compensation Social, now I'm working on my Associate's in Computer Programming at 15, along with a few secret projects going public later this year.  
+I'm Raven, a full stack developer experienced with Unity and backend development. I used to work on Compensation Social, now I'm working on my Associate's in Computer Programming at 16, along with a few secret projects going public later this year.  
 
 - 🌱 Working on my AAS in Computer Programming!
 - 💬 Ask me about Subsurface Studios!
