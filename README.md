@@ -35,7 +35,7 @@ _December 2022 - November 2023_
 - Independently designing and developing a large-scale story adventure game using the Unity game engine and the C# programming language.
 - Created multiple open source C# utilities for Relay, which were then published under open licenses for all to use.
 - Created all 3D models, textures, levels, music, and sound for the game, as well as writing the story.
-### [Subsurface Studios](https://subsurface.az-raven.com/team/) - Compensation Social
+### [Subsurface Studios](https://subsurface.dev/team/) - [Compensation Social](https://compensation.subsurface.dev/)
 _July 2021 - January 2023_
 - Conceptualized and implemented a Massively Multiplayer Online (MMO) service known as "Compensation Social" using the Unity game engine, C# programming language, and node.js Javascript runtime.
 - Served as the primary System Administrator, independently troubleshooting and resolving multiple major service outages.
