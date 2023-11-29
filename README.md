@@ -30,6 +30,8 @@ Young full-stack and game developer with a passion for complex large-scale proje
 - 3D Art
 
 ## Experience
+### [Subsurface Studios](https://subsurface.dev/team/) - Undisclosed "Project 9"
+_November 2023 - Present_
 ### [Subsurface Studios](https://subsurface.dev/team/) - [Relay](https://subsurface.dev/relay/) (on hold)
 _December 2022 - November 2023_
 - Independently designing and developing a large-scale story adventure game using the Unity game engine and the C# programming language.
