@@ -11,6 +11,7 @@ I have a website at [az-raven.com](https://az-raven.com). I occasionally make bl
 I have a fairly small set of public socials:
 - Discord: `raven._.dev`
 - Email: [raven@az-raven.com](mailto://raven@az-raven.com)
+- Business Inquiries: [raven@subsurface.dev](mailto://raven@subsurface.dev)
 - YouTube: [@raven_dev](https://youtube.com/@raven_dev)
 
 # Public Resume
@@ -29,8 +30,8 @@ Young full-stack and game developer with a passion for complex large-scale proje
 - 3D Art
 
 ## Experience
-### [Subsurface Studios](https://subsurface.az-raven.com/team/) - [Relay](https://subsurface.az-raven.com/relay/)
-_December 2022 - Present_
+### [Subsurface Studios](https://subsurface.dev/team/) - [Relay](https://subsurface.dev/relay/) (on hold)
+_December 2022 - November 2023_
 - Independently designing and developing a large-scale story adventure game using the Unity game engine and the C# programming language.
 - Created multiple open source C# utilities for Relay, which were then published under open licenses for all to use.
 - Created all 3D models, textures, levels, music, and sound for the game, as well as writing the story.
