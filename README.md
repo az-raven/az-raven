@@ -10,7 +10,6 @@ utilities ([SharedUtils](https://github.com/SubsurfaceStudios/SharedUtils), [sli
 I have a website at [az-raven.com](https://az-raven.com). I occasionally make blog posts there when I feel like it.  
 I have a fairly small set of public socials:
 - Discord: `raven._.dev`
-- Email: [raven@az-raven.com](mailto://raven@az-raven.com)
 - Business Inquiries: [raven@subsurface.dev](mailto://raven@subsurface.dev)
 - YouTube: [@raven_dev](https://youtube.com/@raven_dev)
 
