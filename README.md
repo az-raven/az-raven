@@ -16,22 +16,16 @@ I have a fairly small set of public socials:
 # Public Resume
 **Raven**  
 _any pronouns_  
-  
-Young full-stack and game developer with a passion for complex large-scale projects.
-## Skills
-- Bash Scripting
-- C Development
-- C# Development
-- node.js Development
-- Rust Development
-- Systems Administration
-- Unity Game Development
-- 3D Art
+
+Godot & Unity Developer, 3D Generalist, C# & Rust Developer
 
 ## Experience
-### [Subsurface Studios](https://subsurface.dev/team/) - Undisclosed "Project 9"
-_November 2023 - Present_
-### [Subsurface Studios](https://subsurface.dev/team/) - [Relay](https://subsurface.dev/relay/) (on hold)
+### [Subsurface Studios](https://subsurface.dev/team/) - Undead Logistics
+_July 2024 - Present_
+- Creating a stylized yet physically-grounded 3D driving simulation.
+- Designing and developing a large open world traversable by both car and foot.
+- Creating art assets and sound effects as necessary throughout the project.
+### [Subsurface Studios](https://subsurface.dev/team/) - Relay (on hold)
 _December 2022 - November 2023_
 - Independently designing and developing a large-scale story adventure game using the Unity game engine and the C# programming language.
 - Created multiple open source C# utilities for Relay, which were then published under open licenses for all to use.
